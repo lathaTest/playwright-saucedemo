@@ -1,0 +1,15 @@
+{
+  "name": "saucelabs-playwright-automation",
+  "version": "1.0.0",
+  "description": "Modular Page Object Model automated suite for SauceLabs Demo UI workflows",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:headed": "npx playwright test --headed",
+    "test:report": "npx playwright show-report"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.44.0",
+    "node": "^26.3.0"
+  }
+}

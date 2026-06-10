@@ -1,0 +1,9 @@
+playwright-saucedemo/
+├── pages/
+│   ├── LoginPage.js
+│   └── InventoryPage.js
+├── tests/
+│   └── saucedemo.spec.js
+├── playwright.config.js
+├── package.json
+└── README.md
