@@ -5,7 +5,7 @@ A production-ready Page Object Model (POM) UI automation test suite using Playwr
 ## Prerequisite Environments
 Ensure your machine has [Node.js](https://nodejs.org/) installed (v18 or higher recommended).
 
-## Framework Installation Setup Steps
+## Framework Installation Setup Steps.
 
 1. **Clone or structure the framework workspace files locally:**
    ```bash
@@ -21,3 +21,4 @@ Ensure your machine has [Node.js](https://nodejs.org/) installed (v18 or higher 
 3.  **To run the html test report**
    ```bash
    npm run test:report
+

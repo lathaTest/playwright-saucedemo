@@ -28,6 +28,7 @@ class LoginPage {
   async getErrorMessageText() {
     return await this.errorMessage.textContent();
   }
+  
 }
 
 module.exports = { LoginPage };

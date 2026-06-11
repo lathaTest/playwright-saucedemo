@@ -12,6 +12,7 @@ class InventoryPage {
     await this.page.waitForURL('**/inventory.html');
     return await this.inventoryContainer.isDisplayed();
   }
+  
 }
 
 module.exports = { InventoryPage };

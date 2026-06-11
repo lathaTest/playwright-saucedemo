@@ -8,6 +8,7 @@
     "test:headed": "npx playwright test --headed",
     "test:report": "npx playwright show-report"
   },
+  
   "dependencies": {
     "@playwright/test": "^1.44.0",
     "node": "^26.3.0"
